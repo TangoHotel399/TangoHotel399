@@ -24,8 +24,6 @@ I've only recently become interested in online creation and would like to learn 
 - [Cor Vitalis](https://corvitalismedical.godaddysites.com)
 
 
-))
-
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 Drop a line
